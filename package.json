@@ -1,0 +1,14 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "Repository for type-challenges tasks",
+  "scripts": {
+    "start": "tsc && node build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rail Sakhaviev",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "4.3.5"
+  }
+}
